@@ -1,0 +1,8 @@
+# Ignoră fișiere și foldere care nu sunt parte din repo
+flutter-sdk/
+goxchange/
+old-backend/
+prometheus/
+rockstake-assets/
+toll_calculator/
+.DS_Store
